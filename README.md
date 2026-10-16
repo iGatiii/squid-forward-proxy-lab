@@ -55,7 +55,7 @@ This is a learning environment, not a production-ready security architecture.
 
 Read the complete technical report:
 
-[[Squid proxy.pdf]]
+[Read the Squid Proxy Lab Report (PDF)](Squid%20proxy.pdf)
 
 ## Learning Outcomes
 
